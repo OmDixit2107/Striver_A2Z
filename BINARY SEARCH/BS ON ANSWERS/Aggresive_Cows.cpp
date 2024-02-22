@@ -5,7 +5,7 @@ int cntcows(vector<int> &v, int dist, int k)
     int cntc = 1, last = v[0];
     for (int i = 1; i < v.size(); i++)
     {
-        cnt if (v[i] - last >= dist)
+        if (v[i] - last >= dist)
         {
             cntc++;
             last = v[i];
