@@ -1,4 +1,4 @@
-class Solution {
+class split_array {
     public int maxi(int[] n) {
         int maxx = n[0];
         for (int i = 1; i < n.length; i++) {

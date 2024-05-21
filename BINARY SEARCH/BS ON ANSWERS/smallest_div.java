@@ -1,4 +1,4 @@
-class Solution {
+class smallest_div {
     public boolean check(int[] arr, int k, int m) {
         int n = arr.length, cnt = 0;
         for (int i = 0; i < n; i++) {
