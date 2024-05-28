@@ -40,9 +40,6 @@ add_executable(striver_a2z
         "BINARY SEARCH/BS ON 1D ARRAYS/t.cpp"
         "BINARY SEARCH/BS ON ANSWERS/Aggresive_Cows.cpp"
         "BINARY SEARCH/BS ON ANSWERS/cnt_books.cpp"
-        "DP/1. Intro.cpp"
-        "DP/2. Climbing Stairs.cpp"
-        "DP/3. FROG JUMP.cpp"
         Graphs/REPRESENTATION.cpp
         GREEDY/Activity_Selection.cpp
         GREEDY/orig_array.cpp
